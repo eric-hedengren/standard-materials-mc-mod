@@ -1,6 +1,6 @@
 package com.baconbombingdeveloper.baconbombingmod;
 
-import com.baconbombingdeveloper.baconbombingmod.util.RegistryHandler;
+import com.baconbombingdeveloper.baconbombingmod.item.ItemRegister;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -24,7 +24,7 @@ public class BaconBombingMod
         
         instance = this;
         
-        RegistryHandler.init();
+        ItemRegister.init();
 
         MinecraftForge.EVENT_BUS.register(this);
     }

@@ -23,7 +23,7 @@ credits="Thank you youtube videos" #optional
 authors="BaconBombingDeveloper" #optional
 
 description='''
-This mod adds an obsidian sword to the game. It's has the same stats as a diamond sword, and can built crafted from two obsidian gems and one stick (Like other swords). Obsidian gems can be crafted from one obsidian block.
+This mod adds an obsidian sword and pickaxe to the game. They are a little better than diamond weapons and can crafted from obsidian gems and sticks (Like other tools). Obsidian gems can be made from smelting an obsidian block.
 '''
 
 [[dependencies.obsidiansword]] #optional
