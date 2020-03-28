@@ -1,0 +1,41 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory
+
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+
+[[mods]] #mandatory
+
+modId="baconbombingmod" #mandatory
+
+version="1.15.2-1.0.0" #mandatory
+
+displayName="Obsidian Sword" #mandatory
+
+updateJSONURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+
+logoFile="blacksword.png" #optional
+
+credits="Thank you youtube videos" #optional
+
+authors="BaconBombingDeveloper" #optional
+
+description='''
+This mod adds an obsidian sword to the game. It's has the same stats as a diamond sword, and can built crafted from two obsidian gems and one stick (Like other swords). Obsidian gems can be crafted from one obsidian block.
+'''
+
+[[dependencies.obsidiansword]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[31,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.obsidiansword]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
