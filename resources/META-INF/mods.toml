@@ -8,17 +8,17 @@ issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #
 
 modId="baconbombingmod" #mandatory
 
-version="1.1.0" #mandatory
+version="1.1.1" #mandatory
 
 displayName="Obsidian and Emerald Tools" #mandatory
 
-updateJSONURL="" #optional
+updateJSONURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #optional
 
 displayURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #optional
 
 logoFile="emerald_sword.png" #optional
 
-credits="Thank you Isaac for helping me with ideas. Thanks to the internet for having so much information." #optional
+credits="Thank you Isaac and Michael for helping me with ideas! Thank you to my curseforge commenters for helping me fix bugs! Thanks to the internet for having so much information!" #optional
 
 authors="BaconBombingDeveloper" #optional
 
