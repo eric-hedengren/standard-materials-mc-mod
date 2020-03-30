@@ -6,11 +6,11 @@
         "/"
     ],
     "key": {
-        "#": {"item": "baconbombingmod:obsidian_gem"},
+        "#": {"item": "minecraft:emerald"},
         "/": {"item": "minecraft:stick"}
     },
     "result": {
-        "item": "baconbombingmod:obsidian_sword",
+        "item": "baconbombingmod:emerald_sword",
         "count": 1
     }
 }

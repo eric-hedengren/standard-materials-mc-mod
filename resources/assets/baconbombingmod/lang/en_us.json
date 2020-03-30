@@ -1,5 +1,13 @@
 {
+	"item.baconbombingmod.obsidian_gem": "Obsidian Gem",
 	"item.baconbombingmod.obsidian_sword": "Obsidian Sword",
 	"item.baconbombingmod.obsidian_pickaxe": "Obsidian Pickaxe",
-	"item.baconbombingmod.obsidian_gem": "Obsidian Gem"
+	"item.baconbombingmod.obsidian_axe": "Obsidian Axe",
+	"item.baconbombingmod.obsidian_shovel": "Obsidian Shovel",
+	"item.baconbombingmod.obsidian_hoe": "Obsidian Hoe",
+	"item.baconbombingmod.emerald_sword": "Emerald Sword",
+	"item.baconbombingmod.emerald_pickaxe": "Emerald Pickaxe",
+	"item.baconbombingmod.emerald_axe": "Emerald Axe",
+	"item.baconbombingmod.emerald_shovel": "Emerald Shovel",
+	"item.baconbombingmod.emerald_hoe": "Emerald Hoe"
 }

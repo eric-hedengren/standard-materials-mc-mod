@@ -2,38 +2,38 @@ modLoader="javafml" #mandatory
 
 loaderVersion="[31,)" #mandatory
 
-issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #optional
 
 [[mods]] #mandatory
 
 modId="baconbombingmod" #mandatory
 
-version="1.15.2-1.0.0" #mandatory
+version="1.1.0" #mandatory
 
-displayName="Obsidian Sword" #mandatory
+displayName="Obsidian and Emerald Tools" #mandatory
 
-updateJSONURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+updateJSONURL="" #optional
 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/obsidian-sword" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #optional
 
-logoFile="blacksword.png" #optional
+logoFile="emerald_sword.png" #optional
 
-credits="Thank you youtube videos" #optional
+credits="Thank you Isaac for helping me with ideas. Thanks to the internet for having so much information." #optional
 
 authors="BaconBombingDeveloper" #optional
 
 description='''
-This mod adds an obsidian sword and pickaxe to the game. They are a little better than diamond weapons and can crafted from obsidian gems and sticks (Like other tools). Obsidian gems can be made from smelting an obsidian block.
+This mod adds obsidian and emerald tools to the game. Obsidian tools are extremely durable, and emerald tools have high efficiency and attack damage.
 '''
 
-[[dependencies.obsidiansword]] #optional
+[[dependencies.baconbombingmod]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
     versionRange="[31,)" #mandatory
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.obsidiansword]]
+[[dependencies.baconbombingmod]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"

@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#",
-        "#",
-        "/"
+        "##",
+        "#/",
+        " /"
     ],
     "key": {
         "#": {"item": "baconbombingmod:obsidian_gem"},
         "/": {"item": "minecraft:stick"}
     },
     "result": {
-        "item": "baconbombingmod:obsidian_sword",
+        "item": "baconbombingmod:obsidian_axe",
         "count": 1
     }
 }
