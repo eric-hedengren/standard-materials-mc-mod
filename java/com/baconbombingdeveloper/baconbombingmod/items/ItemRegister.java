@@ -21,7 +21,9 @@ public class ItemRegister {
 	public static void init() {
 		ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
 	}
-	// Items
+	//Item Variable
+	public static Item obsidian_gem;
+	// Item Registry
 	// Obsidian
 	public static final RegistryObject<Item> OBSIDIAN_GEM = ITEMS.register("obsidian_gem", ItemBase::new);
 	public static final RegistryObject<Item> OBSIDIAN_SWORD = ITEMS.register("obsidian_sword", ()-> new SwordItem(NewItemTier.OBSIDIAN, 3, -2.4F, (new Item.Properties()).group(ItemGroup.COMBAT)));
@@ -35,4 +37,5 @@ public class ItemRegister {
 	public static final RegistryObject<Item> EMERALD_AXE = ITEMS.register("emerald_axe", ()-> new AxeItem(NewItemTier.EMERALD, 5.0F, -3.0F, (new Item.Properties()).group(ItemGroup.TOOLS)));
 	public static final RegistryObject<Item> EMERALD_SHOVEL = ITEMS.register("emerald_shovel", ()-> new ShovelItem(NewItemTier.EMERALD, 1.5F, -3.0F, (new Item.Properties()).group(ItemGroup.TOOLS)));
 	public static final RegistryObject<Item> EMERALD_HOE = ITEMS.register("emerald_hoe", ()-> new HoeItem(NewItemTier.EMERALD, 0.0F, (new Item.Properties()).group(ItemGroup.TOOLS)));
+
 }
