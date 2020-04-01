@@ -8,11 +8,14 @@ import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.util.LazyValue;
 
 public enum NewItemTier implements IItemTier {
-   OBSIDIAN(3, 3000, 6.0F, 2.0F, 15, () -> {
+   OBSIDIAN(3, 2000, 5.0F, 2.0F, 15, () -> {
       return Ingredient.fromItems(Blocks.OBSIDIAN);
    }),
-   EMERALD(2, 500, 10.0F, 4.0F, 25, () -> {
+   EMERALD(2, 500, 7.0F, 3.0F, 20, () -> {
 	  return Ingredient.fromItems(Items.EMERALD);
+   }),
+   BLAZE(3, 1000, 9.0F, 4.0F, 17, () -> {
+	   return Ingredient.fromItems(Items.BLAZE_POWDER);
    });
 
    private final int harvestLevel;
