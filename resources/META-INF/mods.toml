@@ -16,7 +16,7 @@ updateJSONURL="https://gist.githubusercontent.com/EricHedengren/f7d07eea90725928
 
 displayURL="https://www.curseforge.com/minecraft/mc-mods/standardmaterials" #optional
 
-logoFile="obsidian_and_emerald_tools.png" #optional
+logoFile="icon.png" #optional
 
 credits="Isaac, Michael, Curseforge commenters, and the Internet" #optional
 
