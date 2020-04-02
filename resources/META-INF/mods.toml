@@ -2,19 +2,19 @@ modLoader="javafml" #mandatory
 
 loaderVersion="[31,)" #mandatory
 
-issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod/issues" #optional
+issueTrackerURL="https://github.com/EricHedengren/StandardMaterials/issues" #optional
 
 [[mods]] #mandatory
 
-modId="baconbombingmod" #mandatory
+modId="standardmaterials" #mandatory
 
 version="1.1.3" #mandatory
 
-displayName="Obsidian and Emerald Tools" #mandatory
+displayName="Standard Materials" #mandatory
 
 updateJSONURL="https://gist.githubusercontent.com/EricHedengren/f7d07eea9072592838f24d2889713e6f/raw" #optional
 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/baconbombingmod" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/standardmaterials" #optional
 
 logoFile="obsidian_and_emerald_tools.png" #optional
 
@@ -26,14 +26,14 @@ description='''
 This mod adds obsidian and emerald tools to the game. Obsidian tools are extremely durable, and emerald tools have high efficiency and attack damage.
 '''
 
-[[dependencies.baconbombingmod]] #optional
+[[dependencies.standardmaterials]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
     versionRange="[31,)" #mandatory
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.baconbombingmod]]
+[[dependencies.standardmaterials]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"
