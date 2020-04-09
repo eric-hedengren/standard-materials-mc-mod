@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-	"layer0": "standardmaterials:items/emerald_sword"
-  }
-}
