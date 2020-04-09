@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/mine_diamond",
+  "display": {
+    "icon": {
+      "item": "standardmaterials:obsidian_pickaxe"
+    },
+    "title": {
+      "translate": "It Never Breaks"
+    },
+    "description": {
+      "translate": "Make a very durable pickaxe"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obsidian_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "standardmaterials:obsidian_pickaxe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obsidian_pickaxe"
+    ]
+  ]
+}

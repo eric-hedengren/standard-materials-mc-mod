@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "standardmaterials:obsidian_gem"
+    ]
+  },
+  "criteria": {
+    "has_pure_obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "standardmaterials:pure_obsidian"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "standardmaterials:obsidian_gem"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_pure_obsidian",
+      "has_the_recipe"
+    ]
+  ]
+}
