@@ -1,0 +1,26 @@
+{
+	"item.standardmaterials.obsidian_gem": "Obsidian Gem",
+	"item.standardmaterials.obsidian_sword": "Obsidian Sword",
+	"item.standardmaterials.obsidian_pickaxe": "Obsidian Pickaxe",
+	"item.standardmaterials.obsidian_axe": "Obsidian Axe",
+	"item.standardmaterials.obsidian_shovel": "Obsidian Shovel",
+	"item.standardmaterials.obsidian_hoe": "Obsidian Hoe",
+	"item.standardmaterials.obsidian_helmet": "Obsidian Helmet",
+	"item.standardmaterials.obsidian_chestplate": "Obsidian Chestplate",
+	"item.standardmaterials.obsidian_leggings": "Obsidian Leggings",
+	"item.standardmaterials.obsidian_boots": "Obsidian Boots",
+	
+	"item.standardmaterials.emerald_sword": "Emerald Sword",
+	"item.standardmaterials.emerald_pickaxe": "Emerald Pickaxe",
+	"item.standardmaterials.emerald_axe": "Emerald Axe",
+	"item.standardmaterials.emerald_shovel": "Emerald Shovel",
+	"item.standardmaterials.emerald_hoe": "Emerald Hoe",
+	"item.standardmaterials.emerald_helmet": "Emerald Helmet",
+	"item.standardmaterials.emerald_chestplate": "Emerald Chestplate",
+	"item.standardmaterials.emerald_leggings": "Emerald Leggings",
+	"item.standardmaterials.emerald_boots": "Emerald Boots",
+	"item.standardmaterials.emerald_horse_armor": "Emerald Horse Armor",
+
+	
+	"block.standardmaterials.pure_obsidian": "Pure Obsidian"
+}
