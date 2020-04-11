@@ -17,7 +17,7 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 
 public enum ModArmorMaterial implements IArmorMaterial {
    OBSIDIAN("obsidian", 30, new int[]{2, 5, 6, 2}, 14, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 1.0F, () -> {
-      return Ingredient.fromItems(ModItems.obsidian_gem);
+      return Ingredient.fromItems(ModItems.OBSIDIAN_GEM.get());
    }),
    EMERALD("emerald", 14, new int[]{2, 6, 7, 2}, 18, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F, () -> {
 	  return Ingredient.fromItems(Items.EMERALD);

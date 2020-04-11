@@ -29,9 +29,6 @@ public class ModItems {
 	public static void init() {
 		ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
 	}
-	//Item Variables
-	public static Item obsidian_gem;
-
 	// Items
 	// Obsidian
 	public static final RegistryObject<Item> OBSIDIAN_GEM = ITEMS.register("obsidian_gem", ItemBase::new);
