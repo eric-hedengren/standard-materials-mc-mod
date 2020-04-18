@@ -2,7 +2,7 @@
 ## The folders and code are for the mod's "main" folder
 For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standardmaterials "Standard Materials CurseForge")
 
-Feel free to use this in modpacks
+Feel free to use this mod in modpacks
 
 This Mod Adds Balanced Obsidian and Emerald Items to Version 1.15.2
 
