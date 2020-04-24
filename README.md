@@ -20,3 +20,12 @@ All Mod Recipes are the same as Vanilla Tools and Armor
 
 
 ## Visit the [Issues Tab](https://github.com/EricHedengren/StandardMaterials/issues "Standard Materials Issues") to report any Content Requests, Mod Errors, or Game Crashes!
+
+## Other Information
+### Textures:
+Tool Textures were created based off of color samples from the vanilla emerald texture, as well as the vanilla obsidian block texture
+
+### Equipment Stats:
+While emeralds are very uncommon underground, many hundreds can be obtained from trading with villagers. Because of this, emerald tools and armor don't have as much durability to make them balanced items. 
+
+Because you must have diamond equipment to mine obsidian, obsidian tools and armor are very durable. Obsidian can be found in abundance from lava lakes underground, so therefore its equipment damage and effiency is lowered to make balanced obsidian items.
