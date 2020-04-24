@@ -1,4 +1,7 @@
 # Standard Materials
+
+## Visit the [Issues Tab](https://github.com/EricHedengren/StandardMaterials/issues "Standard Materials Issues") to report any Content Requests, Mod Errors, or Game Crashes!
+
 ## The folders and code are for the mod's "main" folder
 For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standardmaterials "Standard Materials CurseForge")
 
@@ -18,8 +21,6 @@ Smelt Obsidian Blocks in a Furnace or Blast Furnace to get the Obsidian Gem
 
 All Mod Recipes are the same as Vanilla Tools and Armor
 
-
-## Visit the [Issues Tab](https://github.com/EricHedengren/StandardMaterials/issues "Standard Materials Issues") to report any Content Requests, Mod Errors, or Game Crashes!
 
 ## Other Information
 ### Textures:
