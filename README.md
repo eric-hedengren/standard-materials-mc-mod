@@ -15,14 +15,13 @@ Emerald Equipment is highly efficient and enchantable
 
 Emerald Horse Armor can be found in normal chests, as well as other mod items
 
-
 ## Crafting New Mod Items
 Smelt Obsidian Blocks in a Furnace or Blast Furnace to get the Obsidian Gem
 
 All Mod Recipes are the same as Vanilla Tools and Armor
 
-
 ## Other Information
+
 ### Textures:
 Tool Textures were created based off of color samples from the vanilla emerald texture, as well as the vanilla obsidian block texture
 
