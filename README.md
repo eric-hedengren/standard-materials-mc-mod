@@ -11,7 +11,7 @@ Feel free to use this mod in mod packs
 ## Equipment Stats Logic:
 While emeralds are very uncommon underground, many hundreds can be obtained from trading with villagers. Because of this, emerald tools and armor don't have as much durability to make them balanced items. 
 
-Because you must have diamond equipment to mine obsidian, obsidian tools and armor are very durable. Obsidian can be found in abundance from lava lakes underground, so therefore its equipment damage and efficiency are lowered to make balanced obsidian items.
+Because you must have diamond equipment to mine obsidian, obsidian tools and armor are very durable. Obsidian can be found in abundance from lava lakes underground, so therefore its equipment damage and efficiency is lowered to make balanced obsidian items.
 
 ## Creating Textures:
 Tool Textures were created based off of color samples from the vanilla emerald texture, as well as the vanilla obsidian block texture.
