@@ -11,7 +11,6 @@ import net.minecraftforge.fml.common.Mod;
 public class StandardMaterials
 {
 	public static final String MOD_ID = "standardmaterials";
-    public static StandardMaterials instance;
     
     public StandardMaterials() {
         MinecraftForge.EVENT_BUS.register(this);
