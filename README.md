@@ -14,6 +14,8 @@ While emeralds are very uncommon underground, many hundreds can be obtained from
 Because you must have diamond equipment to mine obsidian, obsidian tools and armor are very durable. Obsidian can be found in abundance from lava lakes underground, so therefore its equipment damage and efficiency is lowered to make balanced obsidian items.
 
 ## Creating Textures:
+Thanks to [akhenaten](https://www.curseforge.com/members/akhenaten/projects "akhenaten's profile") for remaking the obsidian gem texture for version 1.2.2!
+
 Tool Textures were created based off of color samples from the vanilla emerald texture, as well as the vanilla obsidian block texture.
 
 ## About Standard Materials:
