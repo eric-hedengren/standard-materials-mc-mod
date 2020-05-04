@@ -14,7 +14,6 @@ public class StandardMaterials
     public static StandardMaterials instance;
     
     public StandardMaterials() {
-    	instance = this;
         MinecraftForge.EVENT_BUS.register(this);
         MinecraftForge.EVENT_BUS.register(new ModLoot());
         ModItems.init();
