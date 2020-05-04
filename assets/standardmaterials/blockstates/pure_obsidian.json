@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "standardmaterials:block/pure_obsidian" }
+        "": {"model": "standardmaterials:block/pure_obsidian"}
     }
 }
