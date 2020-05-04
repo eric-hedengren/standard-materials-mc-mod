@@ -16,6 +16,6 @@ public class ModBlocks {
 	public static void init() {
 		BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
 	}
-	//Blocks
+	// Blocks
 	public static final RegistryObject<Block> PURE_OBSIDIAN = BLOCKS.register("pure_obsidian", ()-> new Block(Block.Properties.create(Material.ROCK, MaterialColor.BLACK).hardnessAndResistance(50.0F, 1200.0F)));
 }
