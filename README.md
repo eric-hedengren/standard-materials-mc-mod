@@ -4,9 +4,11 @@
 
 For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
 
-These folders and code are for the mod's "main" folder
+Send me a [private message](https://www.curseforge.com/private-messages/send?recipient=baconbombingdeveloper) on CurseForge if you want your language supported for this mod.
 
 Feel free to use this mod in mod packs
+
+These folders and code are for the mod's "main" folder
 
 ## Equipment Stats Logic:
 While emeralds are very uncommon underground, many hundreds can be obtained from trading with villagers. Because of this, emerald tools and armor don't have as much durability to make them balanced items. 
