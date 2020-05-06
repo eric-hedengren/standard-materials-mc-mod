@@ -1,8 +1,8 @@
-# [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standardmaterials "Standard Materials CurseForge")
+# [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
 
 ## Visit the [Issues Tab](https://github.com/EricHedengren/StandardMaterials/issues "Standard Materials Issues") to report any Content Requests, Mod Errors, or Game Crashes!
 
-For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standardmaterials "Standard Materials CurseForge")
+For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
 
 These folders and code are for the mod's "main" folder
 
