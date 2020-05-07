@@ -14,7 +14,7 @@ displayName="Standard Materials" #mandatory
 
 updateJSONURL="https://gist.githubusercontent.com/EricHedengren/f7d07eea9072592838f24d2889713e6f/raw" #optional
 
-displayURL="https://www.curseforge.com/minecraft/mc-mods/standardmaterials" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/standard-materials" #optional
 
 logoFile="icon.png" #optional
 
