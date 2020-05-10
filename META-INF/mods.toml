@@ -8,7 +8,7 @@ issueTrackerURL="https://github.com/EricHedengren/StandardMaterials/issues" #opt
 
 modId="standardmaterials" #mandatory
 
-version="1.2.2" #mandatory
+version="${file.jarVersion}" #mandatory
 
 displayName="Standard Materials" #mandatory
 
@@ -16,7 +16,7 @@ updateJSONURL="https://gist.githubusercontent.com/EricHedengren/f7d07eea90725928
 
 displayURL="https://www.curseforge.com/minecraft/mc-mods/standard-materials" #optional
 
-logoFile="icon.png" #optional
+logoFile="assets/standardmaterials/textures/icon.png" #optional
 
 credits="Much thanks to Michael, akhenaten, Curseforge Commenters, and the Internet" #optional
 
