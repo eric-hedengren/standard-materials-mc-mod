@@ -16,7 +16,7 @@ updateJSONURL="https://gist.githubusercontent.com/EricHedengren/f7d07eea90725928
 
 displayURL="https://www.curseforge.com/minecraft/mc-mods/standard-materials" #optional
 
-logoFile="assets/standardmaterials/textures/icon.png" #optional
+logoFile="icon.png" #optional
 
 credits="Much thanks to Michael, akhenaten, Curseforge Commenters, and the Internet" #optional
 
