@@ -18,7 +18,7 @@ Because you must have diamond equipment to mine obsidian, obsidian tools and arm
 ## Creating Textures:
 Thanks to [akhenaten](https://www.curseforge.com/members/akhenaten/projects "akhenaten's profile") for remaking the obsidian gem texture for version 1.2.2!
 
-Tool Textures were created based off of color samples from the vanilla emerald texture, as well as the vanilla obsidian block texture.
+Textures were created based off of color samples from the vanilla emerald texture and the vanilla obsidian block texture.
 
 ## About Standard Materials:
 This Mod Adds Balanced Obsidian and Emerald Items to Version 1.15.2
