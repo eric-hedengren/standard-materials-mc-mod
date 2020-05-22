@@ -1,5 +1,7 @@
 # [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
-For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
+For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge").
+
+This mod is now supported on [Aternos servers](https://aternos.org/ "Aternos Homepage").
 
 ## Equipment Stats Logic:
 While emeralds are very uncommon underground, many hundreds can be obtained from trading with villagers. Because of this, emerald tools and armor don't have as much durability to make them balanced items. Villages are considered more rare than underground iron, so therefore they're still better items than iron equipment.
