@@ -13,7 +13,7 @@ public enum ModItemTier implements IItemTier {
    OBSIDIAN(3, 2000, 5.0F, 2.0F, 15, () -> {
       return Ingredient.fromItems(ModItems.OBSIDIAN_GEM.get());
    }),
-   EMERALD(2, 400, 9.0F, 2.0F, 20, () -> {
+   EMERALD(2, 400, 9.0F, 2.5F, 20, () -> {
 	  return Ingredient.fromItems(Items.EMERALD);
    });
 
