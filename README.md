@@ -1,5 +1,5 @@
 # [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials Curse Forge")
-For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials Curse Forge").
+For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials Curse Forge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials Curse Forge").
 
 This mod is now supported on [Aternos servers](https://board.aternos.org/thread/45911-mod-request-standard-materials/ "Standard Materials Request").
 
@@ -30,6 +30,6 @@ All Mod Recipes are the same as Vanilla Tools and Armor
 ### Other Info
 Feel free to add this Mod to Modpacks
 
-[Message Me](https://www.curseforge.com/private-messages/send?recipient=baconbombingdeveloper "Message BaconBombingDeveloper on CurseForge") if you want your Language Supported
+[Message Me](https://www.curseforge.com/private-messages/send?recipient=baconbombingdeveloper "Message BaconBombingDeveloper on Curse Forge") if you want your Language Supported
 
 Visit the [GitHub Issues Tab](https://github.com/EricHedengren/StandardMaterials/issues "Standard Materials Issues") to report any Mod Errors or Game Crashes
