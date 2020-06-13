@@ -1,5 +1,5 @@
-# [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge")
-For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials CurseForge").
+# [Standard Materials](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials Curse Forge")
+For a complete description of the mod and Tool, Armor, and Horse Armor stats, go to the [Standard Materials CurseForge site](https://www.curseforge.com/minecraft/mc-mods/standard-materials "Standard Materials Curse Forge").
 
 This mod is now supported on [Aternos servers](https://board.aternos.org/thread/45911-mod-request-standard-materials/ "Standard Materials Request").
 
