@@ -35,13 +35,13 @@ public class ModLoot {
     		case "shipwreck_treasure":
     		case "stronghold_corridor":
     		case "stronghold_crossing": modifyLoot(event, file, "main"); break;
-    			
+
     		// Pool 1
     		case "abandoned_mineshaft":
     		case "buried_treasure":
     		case "underwater_ruin_big":
     		case "underwater_ruin_small": modifyLoot(event, file, "pool1"); break;
-    			
+
     		// Main and Pool 1
     		case "simple_dungeon":
     		case "woodland_mansion": addLoot(event, file); removeLoot(event, "main"); removeLoot(event, "pool1"); break;
